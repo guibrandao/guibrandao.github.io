@@ -9,7 +9,7 @@ Guilherme Brandão's academic homepage. Plain HTML/CSS, served by GitHub Pages a
 | `index.html` | English page |
 | `pt/index.html` | Portuguese page (paths use `../`) |
 | `assets/css/style.css` | Shared styles (light/dark via `prefers-color-scheme`) |
-| `assets/img/` | Photo (replace `photo-placeholder.svg`) |
+| `assets/img/` | `photo.jpg` (400×400) and `unb-logo.svg` |
 | `assets/cv/` | `cv-en.pdf`, `cv-pt.pdf` |
 | `favicon.svg` | Tab icon |
 | `.nojekyll` | Serve files as-is (no Jekyll build) |
